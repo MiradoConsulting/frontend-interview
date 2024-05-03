@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "id": "1", "title": "Take out the trash" },
+    { "id": "2", "title": "Vacuum living room" },
+    { "id": "3", "title": "Wash dishes" },
+    { "id": "4", "title": "Laundry" },
+    { "id": "5", "title": "Clean bathroom" },
+    { "id": "6", "title": "Dust furniture" },
+    { "id": "7", "title": "Mop kitchen floor" },
+    { "id": "8", "title": "Organize pantry" },
+    { "id": "9", "title": "Water houseplants" },
+    { "id": "10", "title": "Meal prep" }
+  ]
+}
